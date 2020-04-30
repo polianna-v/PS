@@ -1,0 +1,117 @@
+body {margin: 0px;
+     font-family: 'Montserrat', sans-serif;
+     text-align: center;}
+
+
+
+.polina {width: 200px;
+border-radius: 50%;
+margin-top: 100px}
+
+h1{margin: 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    padding: 30px auto 0px auto;
+    color: #b590ca;
+}
+
+hr  {border-style: dotted none none;
+     border-width: 10px;
+    border-color: #ededed;
+    width: 8%;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  }
+/****  16px(statical)=100%(dynamical)=1em(dynamical)
+em - just size, rem - ignores all the other settings of the font-size
+rem is best and recommended ***/
+
+h2 {font-family: 'Nunito', sans-serif;
+    font-size: 1.9rem;
+    font-weight: normal;
+color: #b590ca;}
+
+h3 {font-family: 'Nunito', sans-serif;
+color: #dab8f3;}
+
+.lastword {color: white;
+margin: 38px 0 0 0;}
+
+.btn {
+  margin-bottom: 40px;
+	background-color:#b590ca;
+	-webkit-border-top-left-radius:17px;
+	-moz-border-radius-topleft:17px;
+	border-top-left-radius:17px;
+	-webkit-border-top-right-radius:17px;
+	-moz-border-radius-topright:17px;
+	border-top-right-radius:17px;
+	-webkit-border-bottom-right-radius:17px;
+	-moz-border-radius-bottomright:17px;
+	border-bottom-right-radius:17px;
+	-webkit-border-bottom-left-radius:17px;
+	-moz-border-radius-bottomleft:17px;
+	border-bottom-left-radius:17px;
+text-indent:0;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:17px;
+	font-weight:bold;
+	font-style:normal;
+height:45px;
+	line-height:45px;
+width:129px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #602866;
+}.btn:hover {
+	background-color:#dab8f3;
+}.btn:active {
+	position:relative;
+	top:1px;
+}</style>
+
+.programmer {padding-bottom: 15px;}
+
+.top {background-color: #f4eeff;
+      position: relative;
+      padding-top: 100px;}
+
+.cloud2 {position: absolute;
+         left: 350px;}
+
+.cloud1 {position: absolute;
+         right: 290px;
+         top: 50px;}
+
+.bottom {color: #dab8f3;
+         margin-top: 140px;}
+
+.p1 {text-align: center;}
+
+.skill {width: 50%;
+        line-height: 2;
+        margin: 60px auto 60px auto;
+        text-align: left;}
+
+.gym {text-decoration: none;}
+
+.dance {width: 25%;
+        float: left;
+        margin-right: 30px;}
+
+.computer {width: 25%;
+          float: right;
+          margin-left: 30px;}
+
+.instagram {color: #b590ca;
+  text-decoration: none;
+}
+
+.instagram:hover {color: white;
+}
+
+.contactme {background-color: #dab8f3;
+padding: 30px 0 30px;;
+}
